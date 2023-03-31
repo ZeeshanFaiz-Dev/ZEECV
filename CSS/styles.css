@@ -1,0 +1,68 @@
+body{
+    margin: 0;
+    background-color: bisque;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+h1{
+    font-size: 2.5rem;
+    width: 20%;
+    margin: 0 auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    color:  #66BFBF;
+    line-height: 2;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color:  #66BFBF;
+    font-weight: normal;
+}
+.top-container{
+    background-color: rgba(156, 224, 185, 0.993);
+    position: relative;
+    padding-top: 200px;
+}
+
+.th-container{
+    background-color: rgb(127, 214, 46);
+    height: 200px;
+    width: 200px;
+    
+
+}
+.Pro{
+    text-decoration: underline;
+}
+.middle-cloud{
+    position:absolute;
+    left: 300px;
+    bottom: 300px;
+}
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 100px;
+    
+}
+.Bank{
+    width: 300px;
+    background-color: bisque;
+}
+.PUBG{
+    width: 200px;
+    background-color: bisque;
+}
+.me{
+    width: 100px;
+
+border-radius: 90%;}
+.h3{
+    color: #11999E;
+}
+.footer-link{
+    color: #11999E;
+}
+p{
+    color: #11999E;
+}
